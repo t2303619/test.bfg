@@ -1,2 +1,2 @@
-accessKey: 12345ABXX
-secretKey:  ***REMOVED_S3_SECRET_KEY***
+accessKey: 12345ABXX_UPDATE
+secretKey: 12435YYYXHXHA_UPDATE
