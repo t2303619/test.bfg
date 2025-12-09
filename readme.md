@@ -1,3 +1,3 @@
-accessKey: 12345ABXX_UPDATE
-secretKey: 12435YYYXHXHA_UPDATE
+accessKey: ${access_key}
+secretKey: ${secret_key}
 secretKey3: gggg
